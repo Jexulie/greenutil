@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "main": "server.js",
   "scripts": {
-    "start-e": "electron .",
-    "start": "next start",
-    "dev": "next",
-    "build": "next build"
+    "start": "node server.js"
   },
   "author": "Jexulie",
   "license": "MIT",
