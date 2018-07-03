@@ -1,0 +1,21 @@
+{
+  "name": "greenutil_front",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "next start",
+    "dev": "next",
+    "eject": "next build"
+  },
+  "author": "Jexulie",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-chartjs-2": "^2.7.2",
+    "react-dom": "^16.4.1"
+  }
+}

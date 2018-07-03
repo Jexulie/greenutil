@@ -1,0 +1,18 @@
+{
+  "name": "greenutil_server",
+  "version": "0.1.0",
+  "main": "server.js",
+  "scripts": {
+    "start-e": "electron .",
+    "start": "next start",
+    "dev": "next",
+    "build": "next build"
+  },
+  "author": "Jexulie",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
